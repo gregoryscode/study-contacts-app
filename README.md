@@ -13,16 +13,8 @@ An android app created to improve learning in mobile development in Java program
 
 - Android Studio
 
-## Installation
-
-1. Clone the repository:
-
-```
-git clone https://gitlab.com/your-username/monitoringweb.git
-```
-
 ## Support
-gregory@realdrive.tech
+gregory@brainov.com
 
 ## Copyrights
 Property of Gregory Perozzo. The unauthorized use of the code from this repository, partial or total, will imply measures with the responsible law authorities.
