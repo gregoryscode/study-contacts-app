@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="title_activity_contacts">Contatos</string>
+    <string name="app_contact_name">Nome:</string>
+    <string name="app_ok">OK</string>
+    <string name="app_contacts_loaded">Os contatos foram carregados com sucesso.</string>
+    <string name="app_contacts_done">Os contatos já foram carregados.</string>
+    <string name="app_contacts_error">Não foi possível carregar os contatos.</string>
+</resources>
